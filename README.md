@@ -1,5 +1,5 @@
 # bleach
-An awesome html image loader inspired by whatsapp image loader.
+An awesome html gaussian image loader inspired by whatsapp image loader.
 demo : https://www.galactas.com/public/bleach/
 
 ![Bleach Screenshot](http://i.imgur.com/uhaLVLo.png)
